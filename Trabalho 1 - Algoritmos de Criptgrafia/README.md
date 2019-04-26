@@ -1,4 +1,4 @@
-#Trabalho 1 - Algoritmos de Critptografia
+# Trabalho 1 - Algoritmos de Critptografia
 
 Primeiramente foi usado uma função da biblioteca "Simple Crypt" para fazer uma criptografia simples da mensagem enviada o IP de destino.
 Posteriomente, utilizamos o algoritmo de criptografia AES, como sugerido em sala pelo professor, 
